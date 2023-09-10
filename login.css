@@ -48,7 +48,7 @@ html{
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 101;
-    background: #fff;
+    background: #ffffff86;
     padding: 2.5rem;
     border-radius: 1.3rem;
     box-shadow: .1rem solid rgba(0,0,0,.1);
@@ -105,6 +105,7 @@ html{
     border-bottom: .1rem solid #999;
     transition: all .2s ease;
     color: #333;
+    background: transparent;
 }
 
 .input_box input:focus{
