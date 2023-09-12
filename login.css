@@ -29,7 +29,7 @@ html{
     box-sizing: border-box;
     /*font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;*/
     font-family: "popping", sans-serif;
-    text-transform: capitalize;
+    text-transform: none;
     transition: .3s linear;
 }
 
@@ -107,6 +107,7 @@ html{
     transition: all .2s ease;
     color: #333;
     background: transparent;
+    text-transform: none;
 }
 
 .input_box input:focus{
