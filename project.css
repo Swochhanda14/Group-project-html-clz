@@ -36,6 +36,7 @@ html{
     text-decoration: none;
     text-transform: capitalize;
     transition: .3s linear;
+    font-weight: 700;
 }
 
 
