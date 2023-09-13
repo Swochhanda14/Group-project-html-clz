@@ -401,6 +401,8 @@ section{
 .products .box-container .box .content{
   padding: 2rem;
   text-align: center;
+  background: #facbee60;
+  border-radius: 0 0 5rem 5rem;
 }
 
 .products .box-container .box .content h3{
