@@ -42,7 +42,9 @@ html{
 
 section{
   padding: 2rem 9%;
+
 }
+
 
 
 
@@ -167,6 +169,8 @@ section{
   background-size: cover;
   background-position: center;
 }
+
+
 
 .home .content{
   max-width: 50rem;
