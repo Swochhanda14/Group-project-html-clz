@@ -483,6 +483,7 @@ section{
 .review .box-container .box .user span{
   font-size: 1.5rem;
   color: #999;
+  text-transform: none;
 }
 
 /*contact section start*/
